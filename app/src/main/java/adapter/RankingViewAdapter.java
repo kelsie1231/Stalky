@@ -11,7 +11,7 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 
 import com.gevdev.stalky.R;
-import com.gevdev.stalky.ViewPeopleActivity;
+import activity.ViewPeopleActivity;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

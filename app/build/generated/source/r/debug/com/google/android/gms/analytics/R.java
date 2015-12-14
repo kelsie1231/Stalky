@@ -15,8 +15,8 @@ public final class R {
 	public static final class color {
 	}
 	public static final class drawable {
-		public static final int common_full_open_on_phone = 0x7f020057;
-		public static final int common_ic_googleplayservices = 0x7f020058;
+		public static final int common_full_open_on_phone = 0x7f020059;
+		public static final int common_ic_googleplayservices = 0x7f02005a;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0e003a;

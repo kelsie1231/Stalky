@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/user_profile"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.gevdev.stalky.ViewPeopleActivity"
+    tools:context="activity.ViewPeopleActivity"
     tools:showIn="@layout/user_profile_layout"
     android:id="@+id/scrollView">
 
